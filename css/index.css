@@ -18,3 +18,84 @@ footer {
   padding: 25px;
   border-radius: 7px;
 }
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 0 !important;
+}
+
+
+/* Jumbotron  */
+.jumbotron1 {
+  background-image: url(../images/jumbotron1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.persona {
+  background-image: url(../images/persona.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  width: 800px;
+  height: 500px;
+  align-items: center;
+  justify-content: center;
+}
+
+.timeline {
+  background-image: url(../images/Timeline.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 700px;
+  align-items: center;
+  justify-content: center;
+}
+
+.finalproduct {
+  background-image: url(../images/finalproduct.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+}
+
+.usertesting {
+  background-image: url(../images/UserTesting.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+}
+
+.improvements {
+  background-image: url(../images/improvements.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  height: 800px;
+  width: 1200px;
+  align-items: center;
+  justify-content: center;
+}
+
+.sectionHeading {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.sectionHeading2 {
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
